@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wvbtech.com	TRUE	/	FALSE	1999999999	__cfduid	d511a0ee86978104a30de7b5bc426b8bb1619870658
+.cloudflareinsights.com	TRUE	/	FALSE	1999999999	__cfduid	d1f7c509c08f9a26c5c7186d3c5b386c41619870690
+static.cloudflareinsights.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.zikin.org	TRUE	/	FALSE	1999999999	__cfduid	d599458d6e62721dc35d5604bedc7bd1a1619872555
+img0.zikin.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+community.wvbtech.com	TRUE	/	FALSE	1999999999	flarum_session	3h6JU2vLeupv7KCR5prdK6L5ao64iUxcpkuYGL8g
+community.wvbtech.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

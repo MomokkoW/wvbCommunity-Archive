@@ -1,0 +1,8 @@
+-qir15%e0C1t%Ps1%s%uN4%I0c8R3H0%kf2A2500000%c10%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93" -%F "" -%l "zh, en, *" -P 127.0.0.1:1080 https://community.wvbtech.com -O1 "C:\My Websites\wvbCommunity" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+File generated automatically on Sat, 01 May 2021 20:09:32, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
